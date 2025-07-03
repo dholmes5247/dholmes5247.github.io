@@ -23,5 +23,5 @@ Hi, I'm a full-stack software developer with experience in Java, Spring Boot, Ja
 
 ## Contact
 
-- 📧 [darren.holmes.dev@gmail.com](mailto:darren.holmes.dev@gmail.com)  
-- 💼 [linkedin.com/in/darrenjholmes](https://linkedin.com/in/darrenjholmes)
+- 📧 [dholmes5247@hotmail.com](mailto:dholmes5247@hotmail.com)  
+- 💼 [linkedin.com](www.linkedin.com/in/darren-holmes-software-dev-account-manager)
