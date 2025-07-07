@@ -7,7 +7,7 @@ title: Welcome
 
 Hi, I'm a full-stack software developer with experience in Java, Spring Boot, JavaScript, React, and more. Welcome to my portfolio!
 
-![My photo](/assets/img/profile-photo.jpg)
+![My photo](/assets/img/darrenMug.jpg)
 
 ## Projects
 
@@ -23,5 +23,6 @@ Hi, I'm a full-stack software developer with experience in Java, Spring Boot, Ja
 
 ## Contact
 
-- 📧 [dholmes5247@hotmail.com](mailto:dholmes5247@hotmail.com)  
-- 💼 [linkedin.com](www.linkedin.com/in/darren-holmes-software-dev-account-manager)
+- 📧 [dholmes5247@hotmail.com](mailto:dholmes5247@hotmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/darren-holmes-software-dev-account-manager)
+
